@@ -7,12 +7,15 @@ Date: 9/10/2019
 **ACTORS**
  1.User
  2.Database User Interface referred to as UI in the use case
+ 
 **TRIGGER**
 The user indicates the needs to connect to the database.
+
 **Preconditions**
   -Database must be present on User's machine
   -User must have credentials
   -User must have UI installed 
+  
 **Post condition**
   User receives a message indicating successful connection to the Database.
 
