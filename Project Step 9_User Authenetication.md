@@ -1,6 +1,9 @@
 **Project Step 9**
+
 **ISTA420 Project**
+
 **Cherif OUEDRAOGO**
+
 Date: 9/10/2019
 
 **USE CASE: 
@@ -57,4 +60,4 @@ B. The UI fails to connect to the database
 
    3.The UI displays the Internal Connection error and prompts the User to try again or contact Technical support.
 
-   4. The Use Case goes back to the Step 2 of Normal Flow.
+  4. The Use Case goes back to the Step 2 of Normal Flow.
