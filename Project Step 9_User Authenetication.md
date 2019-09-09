@@ -10,7 +10,9 @@ Date: 9/10/2019
  User Authentication For Database Connection** 
  
 **ACTORS**
+
  1.User
+
  2.Database User Interface referred to as UI in the use case
  
 **TRIGGER**
@@ -60,4 +62,4 @@ B. The UI fails to connect to the database
 
    3.The UI displays the Internal Connection error and prompts the User to try again or contact Technical support.
 
-  4. The Use Case goes back to the Step 2 of Normal Flow.
+ 4. The Use Case goes back to the Step 2 of Normal Flow.
