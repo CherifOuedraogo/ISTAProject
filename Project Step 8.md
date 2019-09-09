@@ -1,10 +1,16 @@
 # Project Step 8
+
 **ISTA420
+
 Cherif Ouedraogo
+
 Date: 8/18/2019**
 
+
 **Software Requirements Specification**
+
 **Emphasis on the Functional requirements for a Graphical User Interface**
+
 ***
 **Clean Water Project**
 
