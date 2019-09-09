@@ -1,10 +1,10 @@
-# Project Step 8
+## Project Step 8
 
 **ISTA420
 
 Cherif Ouedraogo
 
-Date: 8/18/2019**
+Date: 8/18/2019
 
 
 **Software Requirements Specification**
