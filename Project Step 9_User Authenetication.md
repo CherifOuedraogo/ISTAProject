@@ -3,7 +3,9 @@
 **Cherif OUEDRAOGO**
 Date: 9/10/2019
 
-**USE CASE : User Authentication For Database Connection** 
+**USE CASE 
+ User Authentication For Database Connection** 
+ 
 **ACTORS**
  1.User
  2.Database User Interface referred to as UI in the use case
