@@ -62,4 +62,4 @@ B. The UI fails to connect to the database
 
    3.The UI displays the Internal Connection error and prompts the User to try again or contact Technical support.
 
-   4. The Use Case goes back to the Step 2 of Normal Flow.
+   4.The Use Case goes back to the Step 2 of Normal Flow.
